@@ -104,7 +104,7 @@ aws ecs update-service \
 
 ## Real-World Improvements
 
-For production, add:
+For production,  I will add:
 1. **Unit Tests**: Run tests before build
 2. **Security Scanning**: Scan Docker images for vulnerabilities
 3. **Staging Environment**: Deploy to staging first
@@ -122,6 +122,6 @@ For production, add:
 
 ---
 
-**Author:** DevOps Learning Journey - Day 4
+**Author:** IAMEFEMENA (Richiesure)
 
-**Note:** Initially attempted AWS CodePipeline/CodeBuild but encountered account limits. GitHub Actions proved to be a superior alternative with no restrictions and easier setup.
+**Note:** I Initially attempted AWS CodePipeline/CodeBuild but encountered account limits. GitHub Actions proved to be a superior alternative with no restrictions and easier setup.
