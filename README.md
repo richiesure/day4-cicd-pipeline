@@ -120,6 +120,13 @@ For production,  I will add:
 ✅ Practice DevOps workflow
 ✅ Handle deployment failures
 
+<img width="1915" height="1011" alt="image" src="https://github.com/user-attachments/assets/9240aca4-8ece-4d12-a026-45178f868e8c" />
+<img width="1879" height="945" alt="image" src="https://github.com/user-attachments/assets/dafe5fb4-a4b5-4f85-b79f-f35ed8ea8555" />
+<img width="1901" height="988" alt="image" src="https://github.com/user-attachments/assets/e309a8c3-aee4-409e-9318-cba019a6299d" />
+
+
+
+
 ---
 
 **Author:** IAMEFEMENA (Richiesure)
